@@ -8,6 +8,7 @@ public class EmpView {
 		emp.setEmpId(1002);
 		emp.setEmpName("Max");
 		
+		System.out.println("Hello");
 		System.out.println("Id: " +emp.getEmpId());
 		System.out.println("Name: "+emp.getEmpName());
 	}
